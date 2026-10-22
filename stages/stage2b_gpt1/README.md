@@ -30,6 +30,6 @@
 
 ## 产出笔记
 
-`notes/stage2b-gpt1.md`：预训练→微调范式——为什么它统治了后续所有 NLP 模型。
+`notes/stage2b-gpt1.html`：预训练→微调范式——为什么它统治了后续所有 NLP 模型。
 
 > 下一步 → Stage 2c（和 BERT 对比）→ Stage 3（GPT-2）。

@@ -25,4 +25,4 @@
 
 ## 产出笔记
 
-`notes/stage4-gpt3.md`：in-context learning 复现记录 + 和微调的对比。
+`notes/stage4-gpt3.html`：in-context learning 复现记录 + 和微调的对比。

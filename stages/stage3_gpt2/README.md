@@ -28,4 +28,4 @@
 
 ## 产出笔记
 
-`notes/stage3-gpt2.md`：zero/one/few-shot 观察记录（含你自己的小模型数据）。
+`notes/stage3-gpt2.html`：zero/one/few-shot 观察记录（含你自己的小模型数据）。

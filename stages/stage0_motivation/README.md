@@ -25,4 +25,4 @@
 
 ## 产出笔记
 
-`notes/stage0-why-transformer.md`：为什么 RNN 被取代——用自己的话，不抄论文。
+`notes/stage0-why-transformer.html`：为什么 RNN 被取代——用自己的话，不抄论文。用 HTML 写，可内嵌 attention 热力图（Stage 0 核心交付物）。

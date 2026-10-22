@@ -30,4 +30,4 @@
 
 ## 产出笔记
 
-`notes/stage6-modern-map.md`：技术地图一页纸。
+`notes/stage6-modern-map.html`：技术地图一页纸。

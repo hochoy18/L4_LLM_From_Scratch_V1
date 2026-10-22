@@ -28,6 +28,6 @@
 
 ## 产出笔记
 
-`notes/stage2a-bert.md`：MLM 掩码策略为什么这么设计。
+`notes/stage2a-bert.html`：MLM 掩码策略为什么这么设计。
 
 > 下一步 → Stage 2c（和 GPT-1 对比）→ Stage 2b（GPT-1 主线）。

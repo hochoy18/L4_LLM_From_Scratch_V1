@@ -25,4 +25,4 @@
 
 ## 产出笔记
 
-`notes/stage5-rlhf.md`：RLHF pipeline + LoRA 微调实验。
+`notes/stage5-rlhf.html`：RLHF pipeline + LoRA 微调实验。

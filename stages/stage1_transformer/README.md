@@ -34,6 +34,6 @@
 
 ## 产出笔记
 
-`notes/stage1-transformer.md`：结构图（自己画）+ 每个模块的作用。
+`notes/stage1-transformer.html`：结构图（自己画）+ 每个模块的作用。HTML 可内嵌交互式结构图/注意力可视化。
 
 > 下一步 → Stage 2a（BERT，encoder 半边）/ 2b（GPT-1，decoder 半边）。

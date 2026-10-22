@@ -92,7 +92,8 @@ L4_LLM_From_Scratch_V1/
 │   ├── stage5_align_rlhf/
 │   └── stage6_modern/     ← 每个目录：README + model/train/data/hf_check
 │
-├── data/ notes/           ← 语料（gitignore 缓存）、各阶段笔记
+├── data/                   ← 语料（缓存已 gitignore）
+├── notes/                  ← 各阶段学习笔记（HTML，可内嵌图表/交互）
 └── docs/
     ├── adr/               ← 关键决策记录
     └── agents/            ← agent 配置（issue tracker / labels / domain）

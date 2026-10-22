@@ -32,4 +32,4 @@
 
 ## 产出笔记
 
-`notes/stage2c-encoder-vs-decoder.md`（本页即核心交付物）
+`notes/stage2c-encoder-vs-decoder.html`（本页即核心交付物）
