@@ -1,0 +1,26 @@
+[project]
+name = "llm-from-scratch"
+version = "0.1.0"
+description = "从零实现 LLM 血脉：Transformer → BERT / GPT-1 → GPT-2/3 → LLM 的分阶段学习项目"
+requires-python = ">=3.12,<3.13"
+
+dependencies = [
+    "torch",
+    "transformers",
+    "tokenizers",
+    "numpy",
+    "datasets",
+]
+
+[dependency-groups]
+dev = [
+    "ruff",
+]
+
+# 这是一个学习/脚本型项目，不作为可分发的包构建。
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
